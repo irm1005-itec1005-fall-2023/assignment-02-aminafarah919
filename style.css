@@ -4,16 +4,80 @@
  */
 
 body {
-  font-family: Arial, Helvetica, sans-serif;
-  background-color: #fb8500;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.2em;
+  line-height: 1.5em;
+  color: #333;
+  background-color: #fff;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  
 }
 
-h1 {
-  font-size: 2rem;
-  font-weight: bold;
+.title { 
   text-align: center;
-  color: #023047;
+  font-size: 2em;
+  font-weight: bold;
+  padding: 0;
+  width: 100%;
+  height: 100px;
+  background-color: #ecc9c9;
+  color: #fff;
+  
+}
+
+.heroimage {
+  padding-left: 1rem;
+  padding-right: 1rem;
+  margin-top: 1rem;
+  border-radius: 1rem;
+}
+
+.logo {
+  width: 100px;
+  height: 100px;
+  margin: 0 auto;
+  float: left;
+  
+}
+.romancesection {
+  width: 100%;
+  height: 500px;
+  background-color: #ecc9c9;
+  color: #fff;
+  margin-top: 50rem;
+  text-align: center;
+  padding-top: 10px;
+  font-size: 2em;
+  font-weight: bold;
+  border-radius: 1rem;
+
+}
+
+.herotitle {
+  line-height: 2rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  font-size: 2em;
+  font-weight: bold;
+  border-radius: 1rem;
+  text-align: center;
+}
+.herosection {
+  width: 100%;
+  height: 500px;
+  background-color: #e2b6b6;
+  color: #fff;
+  margin-top: 2rem;
+  text-align: left;
+  padding-top: 10px;
+  font-size: 2em;
+  font-size: medium;
+  border-radius: 1rem;
+}
+.herotext {
+  line-height: 2rem;
+  padding-left: 1rem;
 }
