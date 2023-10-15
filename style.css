@@ -86,7 +86,7 @@ body {
   height: 700px;
   background-color: #e2b6b6;
   color: #fff;
-  margin-top: 10rem;
+  margin-top: 15rem;
   text-align: left;
   padding-top: 10px;
   margin-left: 2rem;
@@ -143,6 +143,7 @@ button {
   background-color: #f86d6d;
   border-radius: 2rem;
   color: #fff;
+  margin-top: 2rem;
 }
 
 .warsection {
@@ -151,7 +152,7 @@ button {
   height: 700px;
   background-color: #e2b6b6;
   color: #fff;
-  margin-top: 10rem;
+  margin-top: 15rem;
   text-align: left;
   padding-top: 10px;
   margin-left: 2rem;
@@ -201,7 +202,7 @@ button {
   height: 700px;
   background-color: #e2b6b6;
   color: #fff;
-  margin-top: 10rem;
+  margin-top: 15rem;
   text-align: left;
   padding-top: 10px;
   margin-left: 2rem;
