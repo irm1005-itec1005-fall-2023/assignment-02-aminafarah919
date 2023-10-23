@@ -6,10 +6,10 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
   margin: 0;
-  padding: 0;
-  margin-left: 10rem;
-  margin-right: 10rem ;
-  background-color: #e2b6b6;
+  padding: 4rem;
+  margin-left: 3rem;
+  margin-right: 3rem ;
+  background-color: #f9f7f7;
   color: #000;
   text-align: center;
   align-items: center;
@@ -18,16 +18,10 @@ body {
 }
 
 .header {
-  margin-right: 0rem;
+  margin-top: 2rem;
   text-align: center;
-  background-color: #ecc9c9;
-  color: #fff;
-  padding: 0.5rem;
-  margin-top: 0rem;
-  margin-left: 0rem;
-  margin-right: 0rem;
-  margin-bottom: 0rem;
-  width: 100%; 
+  font-size: 30px;
+  color: rosybrown;
 }
 
 
@@ -41,12 +35,11 @@ body {
 }
 
 .logo {
-  width: 150px;
-  margin: 0 auto;
+  max-width: auto;
   float: left;
   height: 150px;
-  
-  
+  padding-bottom: rem;
+    
 }
 
 
@@ -69,7 +62,7 @@ body {
   width: 100%;
   height: 100px;
   
-  color: #fff;
+  color: #0b0b0b;
   
 }
 .heroimage {
@@ -98,9 +91,7 @@ body {
 }
 .herosection {
   width: 100%;
-  
-  background-color: #e2b6b6;
-  color: #fff;
+  color: #090909;
   margin-top: 6rem;
   text-align: left;
   padding-top: 10px;
@@ -122,14 +113,12 @@ body {
 .romancesection {
 
   width: 100%;
-  
-  background-color: #e2b6b6;
-  color: #fff;
+  color: #111111;
   margin-top: 10rem;
   text-align: left;
   padding-top: 10px;
-  margin-left: 2rem;
-  margin-right: 2rem;
+  margin-left: 3rem;
+  margin-right: 3rem;
   font-size: 2em;
   font-size: medium;
 
@@ -183,19 +172,18 @@ button {
   color: #fff;
   margin-top: 2rem;
   text-align: center;
+  margin-bottom: 1rem;
 }
 
 .warsection {
 
   width: 100%;
-  
-  background-color: #e2b6b6;
-  color: #fff;
+  color: #050505;
   margin-top: 8rem;
   text-align: left;
   padding-top: 10px;
-  margin-left: 2rem;
-  margin-right: 2rem;
+  margin-left: 3rem;
+  margin-right: 3rem;
   font-size: 2em;
   font-size: medium;
 
@@ -238,14 +226,12 @@ button {
 .documentarysection {
 
   width: 100%;
-  
-  background-color: #e2b6b6;
-  color: #fff;
+  color: #0e0e0e;
   margin-top: 8rem;
   text-align: left;
   padding-top: 10px;
-  margin-left: 2rem;
-  margin-right: 2rem;
+  margin-left: 3rem;
+  margin-right: 3rem;
   font-size: 2em;
   font-size: medium;
 
@@ -286,45 +272,49 @@ button {
 }
 
 .cta {
-  background-color: rgb(249, 237, 237);
+  background-color: rgb(218, 181, 181);
   border-radius: 1rem;
   margin-top: 5rem;
   margin-left: 2rem;
 }
 .feedback {
-  text-align: left;
+  text-align: center;
   padding-left: 1rem;
   padding-top: 2rem;
   color: #a16363;
 }
 
 .ctadescription {
-  text-align: left;
+  text-align: center;
   padding-left: 1rem;
   padding-top: 0.5rem;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   color: rgb(135, 130, 130);
+  line-height: 1rem;
 }
 .formclass {
-  text-align: left;
-  padding-left: 1rem;
-  padding-top: 1rem;
+  text-align: center;
+  padding-left: 0rem;
+  padding-top: 0rem;
   padding-right: 1rem;
   color: rgb(135, 130, 130);
   
 }
 .textbox {
-  width: 610px;
-  height: 50px;
+  width: 850px;
   margin-bottom: 0.2rem;
+  text-align: center;
+  margin-top: 1rem;
 }
 
-.submit {
-  background-color: #f86d6d;
-  border-radius: 1rem;
-  color: #fff;
-  margin-top: 2rem;
-  margin-bottom: 2rem;
-  margin-left: 16rem;
-  width: 100px;
+
+.footertitle {
+  margin-top: 12rem;
+}
+
+.logo2 {
+  max-width: auto;
+  float: left;
+  height: 150px;
+  padding-bottom: rem;
 }
