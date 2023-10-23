@@ -144,7 +144,7 @@ body {
   float: left;
   
 }
-.romancetext {
+.romancetext p {
   padding-left: 1rem;
   margin-top: 1rem;
   margin-right: 4rem;
@@ -153,7 +153,7 @@ body {
   line-height: 2rem;
   float: left
   
-p 
+
   
 }
 
@@ -204,13 +204,13 @@ button {
   float: left;
   
 }
-.wartext {
+.wartext p {
   margin-top: 1rem;
   font-size: 20px;
   line-height: 2rem;
   float: left
   
-p
+
   
   
 }
@@ -224,7 +224,7 @@ p
   padding-top: 10px;
   margin-left: 3rem;
   margin-right: 3rem;
-  font-size: 2em;
+  font-size: 10rem;
   font-size: medium;
 
 }
@@ -251,13 +251,13 @@ p
   float: left;
   
 }
-.documentarytext {
+.documentarytext p {
   margin-top: 1rem;
   font-size: 20px;
   line-height: 2rem;
   float: left
   
-p
+
   
 }
 
@@ -272,6 +272,7 @@ p
   padding-left: 1rem;
   padding-top: 2rem;
   color: #a16363;
+  margin-top: 20rem;
 }
 
 .ctadescription {
@@ -303,7 +304,7 @@ p
 }
 
 .logo2 {
-  max-width: auto;
+  max-width: 100px;
   float: left;
   height: 150px;
 }
