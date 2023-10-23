@@ -18,8 +18,16 @@ body {
 }
 
 .header {
-  margin-right: 10rem;
-   
+  margin-right: 0rem;
+  text-align: center;
+  background-color: #ecc9c9;
+  color: #fff;
+  padding: 0.5rem;
+  margin-top: 0rem;
+  margin-left: 0rem;
+  margin-right: 0rem;
+  margin-bottom: 0rem;
+  width: 100%; 
 }
 
 
@@ -31,10 +39,11 @@ body {
 }
 
 .logo {
-  width: 200px;
+  width: 150px;
   margin: 0 auto;
   float: left;
-  height: 200px;
+  height: 150px;
+  
   
 }
 
